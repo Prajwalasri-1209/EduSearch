@@ -9,7 +9,7 @@
 <br>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_EduSearch-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://edusearch-ir.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Manideep-1307/EduSearch)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Prajwalasri-1209/EduSearch)
 
 <br>
 
@@ -197,7 +197,7 @@ EduSearch/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Manideep-1307/EduSearch.git
+git clone https://github.com/Prajwalasri-1209/EduSearch.git
 ```
 
 ### 2. Enter the project directory
@@ -230,9 +230,9 @@ EduSearch is deployed on Vercel and can be accessed here:
 
 ---
 
-## What I Learned
+## What We Learned
 
-Building EduSearch helped me gain practical experience with:
+Building EduSearch helped us gain practical experience with:
 
 - Designing an Information Retrieval pipeline
 - Text preprocessing and document indexing
@@ -261,6 +261,17 @@ Building EduSearch helped me gain practical experience with:
 
 ---
 
+## Project Credits
+
+EduSearch is a collaborative project developed by **Manideep** and **Prajwala sri**.
+
+- **Manideep:** [GitHub](https://github.com/Manideep-1307)
+- **Prajwala Sri:** [GitHub](https://github.com/Prajwalasri-1209)
+
+This repository is a fork of the original [EduSearch project](https://github.com/Manideep-1307/EduSearch).
+
+---
+
 ## Contributing
 
 Contributions and suggestions are welcome.
@@ -280,7 +291,7 @@ If you'd like to contribute:
 
 ## Try EduSearch
 
-### [🌐 Live Demo](https://edusearch-ir.vercel.app/) · [💻 Source Code](https://github.com/Manideep-1307/EduSearch)
+### [🌐 Live Demo](https://edusearch-ir.vercel.app/) · [💻 Source Code](https://github.com/Prajwalasri-1209/EduSearch)
 
 <br>
 
